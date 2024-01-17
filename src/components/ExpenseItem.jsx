@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 //rrd imports
 import { Link, useFetcher } from "react-router-dom";
 

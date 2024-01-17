@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 //rrd imports
 import { Link, useLoaderData } from "react-router-dom";
 

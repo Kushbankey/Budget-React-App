@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 //rrd imports
 import { Form, Link } from "react-router-dom";
 

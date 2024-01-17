@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // reacts
 import { useEffect, useRef } from "react";
 

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 //react imports
 import { useEffect, useRef } from "react";
 

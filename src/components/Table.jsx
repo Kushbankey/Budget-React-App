@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 //component import
 import ExpenseItem from "./ExpenseItem";
 
